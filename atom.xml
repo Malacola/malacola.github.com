@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Totally Unadorned Test Octopress Blog!]]></title>
+  <title><![CDATA[My Test Octopress Blog!]]></title>
   <link href="http://Malacola.github.com/atom.xml" rel="self"/>
   <link href="http://Malacola.github.com/"/>
-  <updated>2012-07-08T17:22:21-06:00</updated>
+  <updated>2012-07-08T19:02:33-06:00</updated>
   <id>http://Malacola.github.com/</id>
   <author>
     <name><![CDATA[malacola]]></name>
